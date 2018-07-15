@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+
+      <trans-unit id="addComment" datatype="html">
+        <source>Add comment</source>
+        <target>إضافة تعقيب</target>
+      </trans-unit>
+
+      <trans-unit id="loadPreviousComments" datatype="html">
+        <source>Load Previous Comments</source>
+        <target>حمل تعليقات سابقة </target>
+      </trans-unit>
+      
+      <trans-unit id="delete" datatype="html">
+        <source>Delete</source>
+        <target>حذف</target>
+      </trans-unit>
+
+      <trans-unit id="replay" datatype="html">
+        <source>Reply</source>
+        <target>رد</target>
+      </trans-unit>
+
+      <trans-unit id="student" datatype="html">
+        <source>Student</source>
+        <target>طالب</target>
+      </trans-unit>
+
+      <trans-unit id="teacherProfessor" datatype="html">
+        <source>Teacher or Professor</source>
+        <target>معلم او دكتور</target>
+      </trans-unit>
+
+      <trans-unit id="clubDepartment" datatype="html">
+        <source>Department or Club</source>
+        <target>ادارة او نادي</target>
+      </trans-unit>
+
+      <trans-unit id="parent" datatype="html">
+        <source>Parent</source>
+        <target>ولي أمر</target>
+      </trans-unit>
+
+      <trans-unit id="following" datatype="html">
+        <source>Following</source>
+        <target>متابَعون</target>
+      </trans-unit>
+
+      <trans-unit id="you" datatype="html">
+        <source>You</source>
+        <target> أنت</target>
+      </trans-unit>
+
+      <trans-unit id="joinBoardRequest" datatype="html">
+        <source>Board join requests</source>
+        <target>طلب انضمام</target>
+      </trans-unit>
+
+      <trans-unit id="approveIgnoreRequest" datatype="html">
+        <source>Approve or ignore requests</source>
+        <target>قم بالموافقة او تجاهل طلبات الانضمام</target>
+      </trans-unit>
+
+      <trans-unit id="new" datatype="html">
+        <source>NEW</source>
+        <target>جديد </target>
+      </trans-unit>
+
+      <trans-unit id="ediProfile" datatype="html">
+        <source>Edit Profile</source>
+        <target>تعديل البورفايل</target>
+      </trans-unit>
+
+      <trans-unit id="setting" datatype="html">
+        <source>Setting</source>
+        <target>الاعدادات</target>
+      </trans-unit>
+
+      <trans-unit id="logOut" datatype="html">
+        <source>Log Out</source>
+        <target>تسجيل الخروج</target>
+      </trans-unit>
+
+      <trans-unit id="faqs" datatype="html">
+        <source>Faqs</source>
+        <target>الأسئلة الأكثر شيوعا</target>
+      </trans-unit>
+
+      <trans-unit id="tos" datatype="html">
+        <source>Terms of Services</source>
+        <target>شروط الخدمة</target>
+      </trans-unit>
+
+      <trans-unit id="pp" datatype="html">
+        <source>Privacy Policy</source>
+        <target>سياسة الخصوصية</target>
+      </trans-unit>
+      <trans-unit id="myuCopyright" datatype="html">
+        <source>MyU © Copyright 2016 | All Rights Reserved </source>
+        <target>ماي يو © حقوق التأليف والنشر 2016 | كل الحقوق محفوظة</target>
+      </trans-unit>
+
+      <trans-unit id="norecordfound" datatype="html">
+        <source> Nothing here.</source>
+        <target> فارغ </target>
+      </trans-unit>
+
+      <trans-unit id="stayOrganized" datatype="html">
+        <source>Stay Organized</source>
+        <target>حافظ على تنظيمك</target>
+      </trans-unit>
+
+      <trans-unit id="createYourProfile" datatype="html">
+        <source>Create your profile and add boards to connect with your school community.</source>
+        <target>قم بتنظيم تواصلك الدراسي عن طريق إنشاء البوردات</target>
+      </trans-unit>
+
+      <trans-unit id="chooseToShareWithAll" datatype="html">
+        <source>Choose to share with all your followers or members of a specific boards.</source>
+        <target>أرسل الإعلانات الهامة لأعضاء كل بورد أو لجميع متابعيك</target>
+      </trans-unit>
+
+      <trans-unit id="createPost" datatype="html">
+        <source>Share important updates</source>
+        <target>ارسل المنشورات الهامة</target>
+      </trans-unit>
+      
+      <trans-unit id="exploreCommunity" datatype="html">
+        <source>Stay up to date</source>
+        <target>تابع آخر الاخبار</target>
+      </trans-unit>
+
+      <trans-unit id="stayUpToDtae" datatype="html">
+        <source>Stay up to date with who and what is popular within your school, and beyond.</source>
+        <target>ابق على اطلاع على ما هو شائع في مدرستك، وما عداها</target>
+      </trans-unit>
+
+      <trans-unit id="getInstantFeed" datatype="html">
+        <source>Get instant feedback</source>
+        <target>تواصل بسرعة فورية</target>
+      </trans-unit>
+
+      <trans-unit id="getInstantFeedback" datatype="html">
+        <source>Get instant feedback from your school community through private messaging.</source>
+        <target>استلم الردود الفورية من أعضاء مدرستك عن طريق المحادثة الشخصية</target>
+      </trans-unit>
+
+      <trans-unit id="haveAccount" datatype="html">
+        <source>Already have an account?</source>
+        <target>لديك حساب؟ </target>
+      </trans-unit>
+
+      <trans-unit id="loginEmailError" datatype="html">
+        <source>Please enter your registered user name or email Id!</source>
+        <target>إسم المستخدم أو الايميل غير صحيح</target>
+      </trans-unit>
+      
+      <trans-unit id="passwordError" datatype="html">
+        <source>Enter Password</source>
+        <target>أدخل كلمة السر</target>
+      </trans-unit>
+
+     <trans-unit id="rememberMe" datatype="html">
+        <source>Remember Me
+              <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/&gt;"/>
+              <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>
+              <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+        </source>
+        <target>تذكرنى
+              <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/&gt;"/>
+              <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>
+              <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+        </target>
+      </trans-unit>
+
+      <trans-unit id="forgotPassword" datatype="html">
+        <source>Forgot Password?</source>
+        <target>نسيت كلمة السر</target>
+      </trans-unit>
+
+      <trans-unit id="login" datatype="html">
+        <source>Log In</source>
+        <target>تسجيل الدخول</target>
+      </trans-unit>
+
+      <trans-unit id="noAccountYet" datatype="html">
+        <source>No account yet?</source>
+        <target>ليس لديك حساب؟</target>
+      </trans-unit>
+      <trans-unit id="register" datatype="html">
+        <source>Register!</source>
+        <target>سجل الآن</target>
+      </trans-unit>
+
+      <trans-unit id="verificationLink" datatype="html">
+        <source>A verification link will be sent to email!</source>
+        <target>سيتم ارسال رابط التأكيد على ايميلك</target>
+      </trans-unit>
+
+      <trans-unit id="emailPatternerror" datatype="html">
+        <source>Incorrect Email. Please make sure it&apos;s entered correctly.</source>
+        <target>الايميل غير صحيح، يرجى التحقق والمحاولة مرة اخرى</target>
+      </trans-unit>
+
+      <trans-unit id="send" datatype="html">
+        <source>Send</source>
+        <target>أرسل</target>
+      </trans-unit>
+
+      <trans-unit id="NoNeedResetPass" datatype="html">
+        <source>No need reset password?</source>
+        <target>No need reset password?</target>
+      </trans-unit>
+
+      <trans-unit id="goBack" datatype="html">
+        <source>Back</source>
+        <target>الرجوع</target>
+      </trans-unit>
+
+      <trans-unit id="iAM" datatype="html">
+        <source>I am...</source>
+        <target>أنا</target>
+      </trans-unit>
+
+      <trans-unit id="chooseAccount" datatype="html">
+        <source>Select your account type</source>
+        <target>اختر نوع الحساب</target>
+      </trans-unit>
+
+      <trans-unit id="next" datatype="html">
+        <source>Next</source>
+        <target>التالي</target>
+      </trans-unit>
+
+      <trans-unit id="selectSchool" datatype="html">
+        <source>Find Your School.</source>
+        <target>إختر المدرسة</target>
+      </trans-unit>
+
+      <trans-unit id="universityNameError" datatype="html">
+        <source>Search Your School Name</source>
+        <target>ابحث عن اسم مدرستك</target>
+      </trans-unit>
+
+      <trans-unit id="addInformation" datatype="html">
+        <source>Add your information.</source>
+        <target>اضف معلوماتك</target>
+      </trans-unit>
+
+      <trans-unit id="signupNameError" datatype="html">
+        <source>We need your first and last name.</source>
+        <target>يرجى إدخال الاسم الكامل</target>
+      </trans-unit>
+
+      <trans-unit id="usernamePatternerror" datatype="html">
+        <source>You may only use letters, numbers, and underscores.</source>
+      <target>في خانة اسم المستخدم يمكنك فقط استخدام الحروف الانجليزية او الارقام او underscore</target>
+      </trans-unit>
+
+      <trans-unit id="signuoUsernameError" datatype="html">
+        <source>Please enter a Username</source>
+        <target>يرجى ادخال اسم المستخدم</target>
+      </trans-unit>
+
+      <trans-unit id="passwordCharchtersError" datatype="html">
+        <source>Password must be at least 6 characters</source>
+        <target>يجب أن تتكون كلمة المرور من ٦ أحرف او ارقام على الأقل</target>
+      </trans-unit>
+
+      <trans-unit id="signupEmailError" datatype="html">
+        <source>Please enter your Email</source>
+        <target>يرجى ادخال اسم الايميل</target>
+      </trans-unit>
+
+      <trans-unit id="registerSuccessful" datatype="html">
+        <source>Registration complete!</source>
+        <target>تم تسجيلك بنجاح!</target>
+      </trans-unit>
+
+      <trans-unit id="CongratsMessage" datatype="html">
+        <source>You're Done!</source>
+        <target>تم التسجيل بنجاح!</target>
+      </trans-unit>
+
+      <trans-unit id="CongratsMessage1" datatype="html">
+        <source>An email was sent to you with  a link. Please click on the link to have your account verified.</source>
+        <target>قمنا بارسال رابط التأكيد الى ايميلك. يرجى الضغط عليه ليتم تأكيد حسابك.</target>
+      </trans-unit>
+
+      <trans-unit id="start" datatype="html">
+        <source>Start</source>
+        <target>ابدأ</target>
+      </trans-unit>
+
+      <trans-unit id="addBoard" datatype="html">
+        <source> Add board </source>
+        <target>اضافه البورد</target>
+      </trans-unit>
+
+      <trans-unit id="boardName" datatype="html">
+        <source>Name your board the way you want others to see it.</source>
+        <target>قم بتسمية البورد بحيث يسهل على الآخرين تمييزه</target>
+      </trans-unit>
+
+      <trans-unit id="privateBoardApprove" datatype="html">
+        <source>When your board is private, only people you approve can join.</source>
+        <target>في حالة البورد الخاص، لن يتمكن احد من الانضمام الا بعد موافقتك</target>
+      </trans-unit>
+
+      <trans-unit id="privateBoard" datatype="html">
+        <source>Private board</source>
+        <target>البورد خاص</target>
+      </trans-unit>
+
+      <trans-unit id="saveBoard" datatype="html">
+        <source>Add</source>
+        <target>حفظ</target>
+      </trans-unit>
+
+      <trans-unit id="editBoard" datatype="html">
+        <source>Edit board</source>
+        <target>تعديل البورد</target>
+      </trans-unit>
+
+      <trans-unit id="moveAchive" datatype="html">
+        <source>Move to archive</source>
+        <target>نقل إلى الأرشيف</target>
+      </trans-unit>
+
+      <trans-unit id="moveProfile" datatype="html">
+        <source>Move to Profile</source>
+        <target>نقل إلى الصفحة الشخصية</target>
+      </trans-unit>
+
+      <trans-unit id="deleteBoard" datatype="html">
+        <source>Delete Board</source>
+        <target>حذف البورد</target>
+      </trans-unit>
+
+      <trans-unit id="deleteBoardChoice" datatype="html">
+        <source>Are you sure you want to delete this board?
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/> This action can`t be undone.
+        </source>
+        <target>هل تريد حذف البورد؟ سوف يترتب على الحذف فقدان البوستات والاعضاء الخاصين بهذا البورد
+        </target>
+      </trans-unit>
+
+      <trans-unit id="boardCancel" datatype="html">
+        <source>Cancel</source>
+        <target>إلغاء الامر</target>
+      </trans-unit>
+
+      <trans-unit id="post" datatype="html">
+        <source>Posts</source>
+        <target>البوستات</target>
+      </trans-unit>
+
+      <trans-unit id="member" datatype="html">
+        <source>Member</source>
+        <target>الأعضاء</target>
+      </trans-unit>
+
+      <trans-unit id="file" datatype="html">
+        <source>Files</source>
+        <target>ملفات</target>
+      </trans-unit>
+
+      <trans-unit id="joinBoard" datatype="html">
+        <source>Join</source>
+        <target>انضمام</target>
+      </trans-unit>
+
+      <trans-unit id="requestBoard" datatype="html">
+        <source>Requested</source>
+        <target>تم الطلب</target>
+      </trans-unit>
+
+      <trans-unit id="joinedBoard" datatype="html">
+        <source>Joined</source>
+        <target>تم الانضمام</target>
+      </trans-unit>
+
+      <trans-unit id="report" datatype="html">
+        <source>Report</source>
+        <target>أبلغ عن مشكلة</target>
+      </trans-unit>
+
+      <trans-unit id="itsSpam" datatype="html">
+        <source>It&apos;s spam </source>
+        <target>المحتوى عبارة عن سبام</target>
+      </trans-unit>
+      
+      <trans-unit id="itsInappropriate" datatype="html">
+        <source>It&apos;s inappropriate</source>
+        <target>المحتوى غير لائق</target>
+      </trans-unit>
+
+      <trans-unit id="itsDisrespectful" datatype="html">
+        <source>It&apos;s disrespectful or harmful</source>
+        <target>المحتوى مسيء او يشكل تهديد او خطر</target>
+      </trans-unit>
+
+      <trans-unit id="otherReason" datatype="html">
+        <source>Other reason</source>
+        <target>سبب آخر</target>
+      </trans-unit>
+
+      <trans-unit id="submit" datatype="html">
+        <source>Submit</source>
+        <target>ارسال</target>
+      </trans-unit>
+
+      <trans-unit id="follow" datatype="html">
+        <source>Follow</source>
+        <target>متابعة</target>
+      </trans-unit>
+
+      <trans-unit id="like" datatype="html">
+        <source>likes</source>
+        <target>إعجاب</target>
+      </trans-unit>
+
+      <trans-unit id="comment" datatype="html">
+        <source>comments</source>
+        <target>تعليق</target>
+      </trans-unit>
+      
+      <trans-unit id="view" datatype="html">
+        <source>view</source>
+        <target>مشاهدة</target>
+      </trans-unit>
+
+      <trans-unit id="add" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> 
+        Add
+        </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> 
+        اضف
+        </target>
+      </trans-unit>
+
+      <trans-unit id="PleaseChooseFile" datatype="html">
+        <source> Please choose the file 
+        </source>
+        <target>أضف مرفقات   
+        <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>
+          <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+        <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        
+      </trans-unit>
+
+      <trans-unit id="chooseImage" datatype="html">
+        <source>Choose image</source>
+        <target>اختر الصورة</target>
+      </trans-unit>
+
+      <trans-unit id="chooseVideo" datatype="html">
+        <source>Choose video</source>
+        <target>أرفق مستندا</target>
+      </trans-unit>
+
+      <trans-unit id="chooseFile" datatype="html">
+        <source>Choose File</source>
+        <target>Choose File</target>
+      </trans-unit>
+      
+      <trans-unit id="existingFileFromMyu" datatype="html">
+        <source>Existing files from myU</source>
+        <target>موجودة على ماي يو</target>
+      </trans-unit>
+
+      <trans-unit id="recentlyUploaded" datatype="html">
+        <source>Recently uploaded document</source>
+        <target>المستندات المرفقة حديثا</target>
+      </trans-unit>
+
+      <trans-unit id="takePhoto" datatype="html">
+        <source>Take a photo</source>
+        <target>التقط الصورة</target>
+      </trans-unit>
+
+      <trans-unit id="camera" datatype="html">
+        <source>Camera</source>
+        <target>الكاميرا</target>
+      </trans-unit>
+
+      <trans-unit id="video" datatype="html">
+        <source>Video</source>
+        <target>فيديو</target>
+      </trans-unit>
+
+      <trans-unit id="computer" datatype="html">
+        <source>Computer</source>
+        <target>استخدم الكاميرا</target>
+      </trans-unit>
+
+      <trans-unit id="done" datatype="html">
+        <source>Done</source>
+        <target>إتمام</target>
+      </trans-unit>
+
+      <trans-unit id="followers" datatype="html">
+        <source>followers</source>
+        <target>متابِعون</target>
+      </trans-unit>
+
+      <trans-unit id="joinedBoards" datatype="html">
+        <source>joined boards</source>
+        <target>البوردات</target>
+      </trans-unit>
+
+      <trans-unit id="sendMessage" datatype="html">
+        <source>Send Message</source>
+        <target>مراسلة</target>
+      </trans-unit>
+
+      <trans-unit id="block" datatype="html">
+        <source>Block</source>
+        <target>حظر</target>
+      </trans-unit>
+
+      <trans-unit id="unBlock" datatype="html">
+        <source>UnBlock</source>
+        <target>إلغاء الحظر</target>
+      </trans-unit>
+
+      <trans-unit id="personalInfo" datatype="html">
+        <source>Personal Info</source>
+        <target>المعلومات الشخصية</target>
+      </trans-unit>
+
+      <trans-unit id="changePassword" datatype="html">
+        <source>Change Password</source>
+        <target>غير كلمة السر</target>
+      </trans-unit>
+
+      <trans-unit id="changeCover" datatype="html">
+        <source>Change your cover photo</source>
+        <target>Change your cover photo</target>
+
+      </trans-unit>
+
+      <trans-unit id="male" datatype="html">
+        <source>Male</source>
+        <target>ذكر</target>
+      </trans-unit>
+
+      <trans-unit id="female" datatype="html">
+        <source>Female</source>
+        <target>أنثى</target>
+      </trans-unit>
+
+      <trans-unit id="notSpecified" datatype="html">
+        <source>Not Specified</source>
+        <target>Not Specified</target>
+      </trans-unit>
+
+      <trans-unit id="other" datatype="html">
+        <source>Other</source>
+        <target>الآخرين</target>
+      </trans-unit>
+
+      <trans-unit id="viewAchive" datatype="html">
+        <source>View Archived</source>
+        <target>عرض الأرشيف </target>
+      </trans-unit>
+
+      <trans-unit id="BlockedUser" datatype="html">
+        <source>Blocked Users</source>
+        <target>قائمة الحظر</target>
+      </trans-unit>
+
+      <trans-unit id="notification" datatype="html">
+        <source>Notifications</source>
+        <target>اشعارات</target>
+      </trans-unit>
+
+      <trans-unit id="aboutUs" datatype="html">
+        <source>About us</source>
+        <target>عنا</target>
+      </trans-unit>
+
+      <trans-unit id="language" datatype="html">
+        <source>Language</source>
+        <target>اللغة</target>
+      </trans-unit>
+
+      <trans-unit id="archiveBoard" datatype="html">
+        <source>Archived boards</source>
+        <target> أرشف البورد </target>
+      </trans-unit>
+
+      <trans-unit id="edit" datatype="html">
+        <source>Edit</source>
+        <target>تعديل</target>
+      </trans-unit>
+      
+      <trans-unit id="activityType" datatype="html">
+        <source>Activity type</source>
+        <target>Activity type</target>
+      </trans-unit>
+
+      <trans-unit id="newPost" datatype="html">
+        <source>New Post</source>
+        <target>بوست جديد </target>
+      </trans-unit>
+
+      <trans-unit id="message" datatype="html">
+        <source>Messages</source>
+        <target>رسائل</target>
+      </trans-unit>
+
+      <trans-unit id="otherNotification" datatype="html">
+        <source>Other notifications</source>
+        <target>اشعارات اخرى</target>
+      </trans-unit>
+
+      <trans-unit id="receivePrivateMessage" datatype="html">
+        <source>Receive Private Messages</source>
+        <target>استقبل الرسائل الخاصة</target>
+      </trans-unit>
+
+      <trans-unit id="appearOnExplorePage" datatype="html">
+        <source>Appear on Explore Page</source>
+        <target>الظهور على صفحة استكشف</target>
+      </trans-unit>
+
+      <trans-unit id="whatIsMyu" datatype="html">
+        <source>What is MyU?</source>
+        <target>ما هو ماي يو؟</target>
+      </trans-unit>
+
+      <trans-unit id="myuIntro3" datatype="html">
+        <source>See how myU can helps you.</source>
+        <target>كيف يمكن لماي يو ان يساعدك؟</target>
+      </trans-unit>
+
+      <trans-unit id="currentLanguage" datatype="html">
+        <source>Current language</source>
+        <target>اللغة الحالية</target>
+      </trans-unit>
+
+      <trans-unit id="feedback" datatype="html">
+        <source>Feedback</source>
+        <target>اتصل بنا</target>
+      </trans-unit>
+
+      <trans-unit id="inYourSchool" datatype="html">
+        <source>Also in your school:</source>
+        <target>أيضاً في مدرستك</target>
+      </trans-unit>
+
+      <trans-unit id="viewMore" datatype="html">
+        <source>View More</source>
+        <target>المزيد</target>
+      </trans-unit>
+
+      <trans-unit id="fromOtherSchool" datatype="html">
+        <source>From other schools:</source>
+        <target>في مدارس اخرى:</target>
+      </trans-unit>
+
+      <trans-unit id="popularInYourSchool" datatype="html">
+        <source>POPULAR IN YOUR SCHOOL</source>
+        <target>أيضاً في مدرستك</target>
+      </trans-unit>
+
+      <trans-unit id="popularInOtherSchool" datatype="html">
+        <source>POPULAR IN OTHER SCHOOLS</source>
+        <target>في مدارس اخرى</target>
+      </trans-unit>
+
+      <trans-unit id="popularPosts" datatype="html">
+        <source>POPULAR POSTS</source>
+        <target>قد يثير اهتمامك</target>
+      </trans-unit>
+
+      <trans-unit id="aboutApp" datatype="html">
+        <source>ABOUT APP</source>
+        <target>عن التطبي</target>
+      </trans-unit>
+
+      <trans-unit id="testimonials" datatype="html">
+        <source>TESTIMONIALS</source>
+        <target>شهادات المستخدمين</target>
+      </trans-unit>
+
+      <trans-unit id="contactUs" datatype="html">
+        <source>CONTACT US</source>
+        <target>اتصل بنا</target>
+      </trans-unit>
+
+      <trans-unit id="communicate" datatype="html">
+        <source>COMMUNICATE EASILY WITH YOUR SCHOOL COMMUNITY</source>
+        <target>تواصل بسهولة مع دائرتك الدراسية</target>
+      </trans-unit>
+
+      <trans-unit id="sendNotes" datatype="html">
+        <source>Send your notes instantly to any school member for free</source>
+        <target>أرسل إعلانات موادك لطلبتك مجانا</target>
+      </trans-unit>
+
+      <trans-unit id="myuIntro" datatype="html">
+        <source>myU app saves teachers’ time, effort and the day to day hustle and bustle of communicating with students by powering them with a free simple tool for them and their students to connect and share on the go</source>
+        <target>ماي يو تطبيق للموبايل يوفر على المعلمين الوقت والجهد اليومي الذي يمرون به اثناء تواصلهم مع الطلبة، ويمنحهم وطلبتهم أداة مجانية بسيطة يمكنهم من خلالها التواصل بشكل فوري وسريع</target>
+      </trans-unit>
+
+      <trans-unit id="myuintro2" datatype="html">
+        <source>The end to unreachable messages and E-mails</source>
+        <target>قل وداعا للرسائل الضائعة و الإيميلات الغير مقروءة</target>
+      </trans-unit>
+
+      <trans-unit id="educator" datatype="html">
+        <source>Educator</source>
+        <target>معلم</target>
+      </trans-unit>
+
+      <trans-unit id="studentFact" datatype="html">
+        <source>Stay up to date with your school community and never miss an important announcement again</source>
+        <target>استقبل اعلانات موادك بسهولة على موبايلك و تواصل مع مدرسينك والأندية الطلابية اللي تحبها</target>
+      </trans-unit>
+
+      <trans-unit id="clubDepartmentFact" datatype="html">
+        <source>Expand your reach within your school, connect with students faster promoting your news, events and activities</source>
+        <target>تمكن من الوصول لأكبر عدد من الطلبة، وتواصل معهم بسرعة للإعلان عن الاخبار، الفعاليات والنشاطات الخاصة بناديك أو قسمك</target>
+      </trans-unit>
+
+      <trans-unit id="educatorFact" datatype="html">
+        <source>Send your announcements on the go, create discussions. no time for a text? share your instructions in a voice note or get visual and share a photo</source>
+        <target>أرسل إعلانات موادك للطلبة بسهولة، ناقشهم في المواضيع المهمة. ما في وقت للكتابة؟ شاركهم تعليماتك في رسالة صوتية او صورة.</target>
+      </trans-unit>
+
+      <trans-unit id="parentFact" datatype="html">
+        <source>Keep track with your child’s performance with the least effort, receive news and updates from the school management and teachers</source>
+        <target>تابع أداء طفلك بأقل مجهود، استلم الاخبار والإعلانات المهمة من إدارة المدرسة والمعلمين</target>
+      </trans-unit>
+
+      <trans-unit id="institution" datatype="html">
+        <source>INSTITUTION</source>
+        <target>مؤسسة تعليمية</target>
+      </trans-unit>
+
+      <trans-unit id="institutionFact" datatype="html">
+        <source>Take over your school’s control panel, see analytics and manage your own database</source>
+        <target>استلم لوحة التحكم الخاصة بمدرستك او جامعتك، اطلع على التحليلات، بالإضافة الى إدارة قاعدة البيانات الخاصة بك.</target>
+      </trans-unit>
+
+      <trans-unit id="userTestimonials" datatype="html">
+        <source>Users Testimonials</source>
+        <target>شهادات المستخدمين</target>
+      </trans-unit>
+
+      <trans-unit id="testimonialQuote" datatype="html">
+        <source>“This app will definitely be the main teacher-student Interaction platform outside of the classroom at KU and all other educational institutions”</source>
+        <target>"يعتبر التطبيق جهة التواصل الأساسية بين المعلم والطالب خارج الصفوف الدراسية في جامعة الكويت والمؤسسات التعليمية الأخرى"</target>
+      </trans-unit>
+
+      <trans-unit id="testimonialUsername" datatype="html">
+        <source>Mrs. Hala Alsammar</source>
+        <target>الأستاذة هالة السمار</target>
+      </trans-unit>
+
+      <trans-unit id="testimonialDepartment" datatype="html">
+        <source>Instructor at the English Language Unit in Kuwait University</source>
+        <target>معلمة في قسم اللغة الإنجليزية بجامعة الكويت</target>
+      </trans-unit>
+
+      <trans-unit id="testimonialQuote2" datatype="html">
+        <source>“myU is great. Communication with my class is much more efficient now”</source>
+        <target>"ماي يو تطبيق رائع! التواصل مع طلبتي أصبح أكثر فعالية الآن"</target>
+      </trans-unit>
+
+      <trans-unit id="testimonialUsername2" datatype="html">
+        <source>Dr. Fahad Alzumai</source>
+        <target>د.فهد الزميع</target>
+      </trans-unit>
+
+      <trans-unit id="testimonialDepartment2" datatype="html">
+        <source>Professor of Business Law at Gulf University for Science &amp; Technology</source>
+        <target>أستاذ القانون التجاري في جامعة الخليج للعلوم والتكنولوجيا</target>
+      </trans-unit>
+
+      <trans-unit id="previous" datatype="html">
+        <source>Previous</source>
+        <target>Previous</target>
+      </trans-unit>
+
+      <trans-unit id="thankYou" datatype="html">
+        <source>Thank you!</source>
+        <target>شكرا جزيلا</target>
+      </trans-unit>
+
+      <trans-unit id="information" datatype="html">
+        <source>Information</source>
+        <target>المعلومات</target>        
+      </trans-unit>
+
+      <trans-unit id="haventNotification" datatype="html">
+        <source> You haven&apos;t a new notificaitons</source>
+        <target>لا توجد اشعارات جديدة</target>   
+      </trans-unit>
+
+      <trans-unit id="classOf" datatype="html">
+        <source>Class of</source>
+        <target>سنة التخرج</target>        
+      </trans-unit>
+
+      <trans-unit id="newsFeedEmpty" datatype="html">
+        <source>Your news feed is empty</source>
+        <target>لا يوجد منشورات</target>        
+      </trans-unit>
+
+      <trans-unit id="CreateYourFirstPost" datatype="html">
+        <source>Create your first post.</source>
+        <target>أنشئ منشورك الأول</target>
+      </trans-unit>
+
+      <trans-unit id="nothingHereYet" datatype="html">
+        <source>Nothing Here Yet..</source>
+        <target>لا يوجد شيء هنا حتى الان</target>
+      </trans-unit>
+
+      <trans-unit id="byRegister" datatype="html">
+        <source>By registering you are agree to our <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/><x id="START_TAG_INS" ctype="x-ins" equiv-text="&lt;ins&gt;"/>terms of service<x id="CLOSE_TAG_INS" ctype="x-ins" equiv-text="&lt;/ins&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+           and  <x id="START_TAG_INS" ctype="x-ins" equiv-text="&lt;ins&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>privacy policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> <x id="CLOSE_TAG_INS" ctype="x-ins" equiv-text="&lt;/ins&gt;"/>
+        </source>
+        <target>عند تسجيلك فإنك تقوم بالموافقة على <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/><x id="START_TAG_INS" ctype="x-ins" equiv-text="&lt;ins&gt;"/>سياسة الخصوصية<x id="CLOSE_TAG_INS" ctype="x-ins" equiv-text="&lt;/ins&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+           و  <x id="START_TAG_INS" ctype="x-ins" equiv-text="&lt;ins&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>شروط الخدمة.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> <x id="CLOSE_TAG_INS" ctype="x-ins" equiv-text="&lt;/ins&gt;"/>
+        </target>
+      </trans-unit>
+
+       <trans-unit id="1a44c82594d8bd4f8afc4ce9ed2a709fe5cfb5d0" datatype="html">
+        <source>Board name</source>
+        <target>اسم المجلس</target>        
+      </trans-unit>
+
+      <trans-unit id="7e892ba15f2c6c17e83510e273b3e10fc32ea016" datatype="html">
+        <source>Search</source>
+        <target>ابحث</target>
+      </trans-unit>
+
+      <trans-unit id="cff1428d10d59d14e45edec3c735a27b5482db59" datatype="html">
+        <source>Name</source>
+        <target>الاسم</target>
+      </trans-unit>
+
+      <trans-unit id="484b0e541230d60ddb5fbd771a34a5c8d90e7a57" datatype="html">
+        <source>Full Name</source>
+        <target>الاسم الكامل</target>
+      </trans-unit>
+
+      <trans-unit id="08c74dc9762957593b91f6eb5d65efdfc975bf48" datatype="html">
+        <source>Username</source>
+        <target>اسم المستخدم</target>
+      </trans-unit>
+
+      <trans-unit id="244aae9346da82b0922506c2d2581373a15641cc" datatype="html">
+        <source>Email</source>
+        <target>الايميل الرسمي</target>
+      </trans-unit>
+
+      <trans-unit id="0fb3f45d31ab19cb40b042ebcb2ae26ff5f04d79" datatype="html">
+      <source>Official Email</source>
+      <target>الايميل الرسمي</target>
+      </trans-unit>
+
+      <trans-unit id="4b0ca852bafa5037c4e64c7b18f9cd1e14b799de" datatype="html">
+        <source>Subject</source>
+        <target>موضوع</target>
+      </trans-unit>
+      
+      <trans-unit id="e6fe1d47fed39f15272cde41635b229955dacd00" datatype="html">
+        <source>Write a Message</source>
+        <target>اكتب شيئا</target>
+      </trans-unit>
+
+      <trans-unit id="ccac601bf473fa28c9ac46794f1cd40542f74347" datatype="html">
+        <source>Message</source>
+        <target>رسائل</target>
+      </trans-unit>
+
+      <trans-unit id="dbcc07e038ece288398f77c3e3080ebd4fe24181" datatype="html">
+        <source>Username or Email</source>
+        <target>اكتب اسم المستخدم او الايميل</target>
+      </trans-unit>
+
+      <trans-unit id="ba808ceacf3b47eeb4429514b32a9267eff8fa49" datatype="html">
+        <source>Username or Email Id</source>
+        <target>اكتب اسم المستخدم او الايميل</target>
+      </trans-unit>
+
+      <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
+        <source>Password</source>
+        <target>كلمة السر</target>
+      </trans-unit>
+
+      <trans-unit id="002bf09aeca22fe222ee1453c8b4d161327710f2" datatype="html">
+        <source>Write Something</source>
+        <target>اكتب شيئا</target>
+      </trans-unit>
+
+      <trans-unit id="8cfea10d321883c2ae529658740774139dc83fe3" datatype="html">
+        <source>Search Your School Name</source>
+        <target>أضف مدرستك</target>
+      </trans-unit>
+
+      <trans-unit id="399b69ce0883e988a65bad7765a7285df79b6185" datatype="html">
+        <source>Other Reason</source>
+        <target>سبب آخر</target>
+      </trans-unit>
+
+      <trans-unit id="19991529f3b2827b8665b273580c9d52194df9e8" datatype="html">
+        <source>Bio</source>
+        <target>نبذة عنك</target>
+      </trans-unit>
+
+      <trans-unit id="1ee03147ce5be8ebfd07fe999d93eb6c7625a478" datatype="html">
+        <source>Please enter your phone number</source>
+        <target>يرجى إدخال رقم الهاتف</target>
+      </trans-unit>
+
+      <trans-unit id="1ae3dcf96b494406b6fd6fbd2f15f7259553bf4d" datatype="html">
+        <source>Current Password</source>
+        <target>كلمة السر الحالية</target>
+      </trans-unit>
+
+      <trans-unit id="c7014c6360e94b236286b869c3fe0ea9911c0387" datatype="html">
+        <source>New Password</source>
+        <target>كلمة السر الجديدة</target>
+      </trans-unit>
+
+      <trans-unit id="c1b7e6d75ff4285c7636c67e5ef259629b81725b" datatype="html">
+        <source>Confirm Password</source>
+        <target>تأكيد كلمة السر</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

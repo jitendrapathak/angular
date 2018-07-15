@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="row">
+        <p class="pull-right">
+            <a class="navbar-brand" [routerLink]="['/people-registration']">register</a>
+        </p>
+        <br>
+        <br>
+    </div>
+
+    <div class="row">
+        
+        <div class="col-md-2">Name</div>
+        <div class="col-md-1">Age</div>
+        <div class="col-md-2">Gender</div>
+        <div class="col-md-2">address</div>
+        <div class="col-md-2">qualification</div>
+        <div class="col-md-2">occupation</div>
+        <div class="col-md-1">Action</div>
+    </div>
+    <div class="row" *ngFor="let people of peopleList" style="padding: 10px 0px;">
+        <!-- <div class="col-md-2">{{people._id}}</div> -->
+        <div class="col-md-2">{{people.name}}</div>
+        <div class="col-md-1">{{people.age}}</div>
+        <div class="col-md-2">{{people.gender}}</div>
+        <div class="col-md-2">{{people.address}}</div>
+        <div class="col-md-2">{{people.qualification}}</div>
+        <div class="col-md-2">{{people.occupation}}</div>
+        <div class="col-md-1"><a href="javascript:void(0);" (click)="deleteUser(people._id)" style="color: red">Delete</a></div>
+    </div>
+</div>

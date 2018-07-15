@@ -1,0 +1,67 @@
+<div class="container">
+  <br>
+  <br>
+  <p class="text-center">
+    <strong>Registration</strong>
+  </p>
+  <br>
+  <form [formGroup]="saveUserForm">
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">Name</div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Name" formControlName="name" />
+        <app-validation-message-component [control]="saveUserForm.controls['name']"></app-validation-message-component>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">Age</div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Age" formControlName="age" />
+        <app-validation-message-component [control]="saveUserForm.controls['age']"></app-validation-message-component>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">Gender</div>
+      <div class="col-md-6">
+        <select class="form-control" formControlName="gender">
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">Address</div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Address" formControlName="address" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">Qualification</div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Qualification" formControlName="qualification" />
+        <app-validation-message-component [control]="saveUserForm.controls['qualification']"></app-validation-message-component>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">Occupation</div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Occupation" formControlName="occupation" />
+        <app-validation-message-component [control]="saveUserForm.controls['qualification']"></app-validation-message-component>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <input type="button" value="SUBMIT" (click)="save()" class="btn m_y_15">
+      </div>
+    </div>
+
+  </form>
+</div>
